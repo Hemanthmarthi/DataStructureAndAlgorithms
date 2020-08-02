@@ -1,0 +1,11 @@
+**/conf*/keysecure/
+**/conf/
+**/*.iml
+.idea/
+**/target/
+**/logs/
+.DS_Store
+.classpath
+.project
+.settings/
+**/bin/
